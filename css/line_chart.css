@@ -1,0 +1,22 @@
+body {
+  background: black;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2rem;
+}
+
+#button-refresh {
+  border-radius: 12px;
+  background: rgb(0, 99, 132);
+  color: white;
+  font-size: 0.6em;
+}
+
+.line-chart {
+  min-height: auto;
+  flex-grow: 1;
+  width: 75%;
+  padding: 5px;
+}

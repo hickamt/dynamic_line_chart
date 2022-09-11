@@ -1,0 +1,15 @@
+{
+  "name": "svg_polyline",
+  "version": "1.0.0",
+  "description": "[w3schools.com | Polyline](https://www.w3schools.com/graphics/svg_polyline.asp)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^3.9.1"
+  }
+}
